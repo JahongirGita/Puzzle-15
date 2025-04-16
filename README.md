@@ -35,3 +35,9 @@ Multi-Activity Navigation: Uses multiple activities for different sections of th
   <img src="images/photo_2025-04-16_10-32-43.jpg" width="150"/>
   <img src="images/photo_2025-04-16_10-32-44.jpg" width="150"/>
 </p>
+
+# 🚀 Running the Project
+Download the APK and try it out.
+<hr style="border: 2px solid black;">
+Author: [Hasanov Jahongie]
+Contact: [jahonh959@gmail.com]
