@@ -38,7 +38,7 @@ Multi-Activity Navigation: Uses multiple activities for different sections of th
 
 #
 
-<img src="videos/video_2025-04-16_17-56-03.gif" width="200" height="300" alt="Demo GIF" />
+<img src="videos/video_2025-04-16_17-56-03.gif" width="200" alt="Demo GIF" />
 
 
 # 🚀 Running the Project
