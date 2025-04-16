@@ -41,6 +41,6 @@ Download the APK and try it out.
 
 <hr style="border: 2px solid black;">
 
-Author: [Hasanov Jahongie]
+Author: [Hasanov Jahongir]
 
 Contact: [jahonh959@gmail.com]
