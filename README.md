@@ -38,7 +38,7 @@ Multi-Activity Navigation: Uses multiple activities for different sections of th
 
 #
 <video width="320" height="240" controls>
-  <source src="video_2025-04-16_17-56-03.mp4" type="video/mp4">
+  <source src="videos/video_2025-04-16_17-56-03.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
