@@ -25,18 +25,7 @@ MediaPlayer: Utilized to play background music or sound effects.
 
 Multi-Activity Navigation: Uses multiple activities for different sections of the app (e.g., Menu Activity, Game Activity, Result Activity).
 
-Dialogs: Implemented using Dialogs to display information, such as instructions or confirmation messages.
 
-# 📂 How to Use:
-Start the Game: Tap the "Start" button to begin a new game.
-
-Slide the Blocks: Arrange the blocks by sliding them to solve the puzzle.
-
-Game Progress: The game’s progress is saved using SharedPreferences so you can resume from where you left off.
-
-Sound: You can listen to background music or sound effects during the game, managed by MediaPlayer.
-
-Dialogs: Use dialogs for additional instructions, game over messages, or any confirmations.
 #
 <p float="left">
   <img src="images/photo_2025-04-16_10-32-35.jpg" width="150"/>
