@@ -36,7 +36,7 @@ Multi-Activity Navigation: Uses multiple activities for different sections of th
   <img src="images/photo_2025-04-16_10-32-44.jpg" width="150"/>
 </p>
 
-#
+# 🎥 App Preview
 
 <img src="videos/video_2025-04-16_17-56-03.gif" width="200" alt="Demo GIF" />
 
