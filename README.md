@@ -1,7 +1,7 @@
 # Puzzle-15
 Puzzle 15 is an Android application that lets users play the classic "15 Puzzle" (Sliding Puzzle) game. It includes features like media playback, multi-activity navigation, and saved progress using SharedPreferences.
 
-📌 Features:
+# 📌 Features:
 Classic 15 Puzzle: A 4x4 grid puzzle where the player slides blocks to arrange them in the correct order.
 
 Game Timer: Tracks the time taken to solve the puzzle and displays the results at the end.
@@ -14,7 +14,7 @@ MediaPlayer: Used to play sound effects, music, or other media during the gamepl
 
 Multi-Activity Setup: The app follows a multi-activity structure, where each part of the game (menu, gameplay, result) is in a different activity.
 
-🛠 Technologies:
+# 🛠 Technologies:
 Android Studio: The app is developed using Android Studio.
 
 Java: Written in Java programming language.
@@ -27,7 +27,7 @@ Multi-Activity Navigation: Uses multiple activities for different sections of th
 
 Dialogs: Implemented using Dialogs to display information, such as instructions or confirmation messages.
 
-📂 How to Use:
+# 📂 How to Use:
 Start the Game: Tap the "Start" button to begin a new game.
 
 Slide the Blocks: Arrange the blocks by sliding them to solve the puzzle.
@@ -37,6 +37,7 @@ Game Progress: The game’s progress is saved using SharedPreferences so you can
 Sound: You can listen to background music or sound effects during the game, managed by MediaPlayer.
 
 Dialogs: Use dialogs for additional instructions, game over messages, or any confirmations.
+#
 <p float="left">
   <img src="images/photo_2025-04-16_10-32-35.jpg" width="150"/>
   <img src="images/photo_2025-04-16_10-32-38.jpg" width="150"/>
