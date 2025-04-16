@@ -1,3 +1,7 @@
 # Puzzle-15
 masmada
-<img src="images/photo_2025-04-16_10-32-35.jpg" alt="Puzzle Image" width="200"/>
+<p float="left">
+  <img src="images/puzzle1.png" width="150"/>
+  <img src="images/puzzle2.png" width="150"/>
+  <img src="images/puzzle3.png" width="150"/>
+</p>
